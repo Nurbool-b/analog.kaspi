@@ -1,0 +1,1 @@
+{"name":"@shop/web","private":true,"type":"module","scripts":{"dev":"vite --host 0.0.0.0","build":"vite build"},"dependencies":{"@shop/shared":"*","@vitejs/plugin-react":"latest","vite":"latest","react":"latest","react-dom":"latest","react-router-dom":"latest","lucide-react":"latest"},"devDependencies":{"@playwright/test":"latest"}}
